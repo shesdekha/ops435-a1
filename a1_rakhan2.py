@@ -19,7 +19,7 @@ import os
 def usage():
 
     """
-    The usage() function will take an arguments to use the script and exit
+    The usage() function will take an arguments to use the script and exit.
     """
 
     if len(sys.argv) != 3 and len(sys.argv) != 4:
